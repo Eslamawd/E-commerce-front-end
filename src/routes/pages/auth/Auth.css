@@ -1,0 +1,38 @@
+.auth{
+
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: grid;
+  justify-content: center;
+  overflow: scroll;
+
+}
+.auth form{
+  display: grid;
+  background: rgba(255,255,255,0.1);
+  justify-items: center;
+  border-radius: 20px;
+
+
+}
+.auth input{
+
+  margin: 10px;
+  text-align: center;
+  border: none;
+  color: #000000;
+  border-radius: 22px;
+  /* background: rgba(255,255,255,0.1); */
+  text-shadow: #fff;
+  height: 30px;
+  }
+
+  
+  .auth .form h3 {
+    color: #fff;
+    text-align: center;
+    margin: 6px;
+  
+  }
+
+

@@ -1,0 +1,17 @@
+.profile{
+    display: grid;
+    align-items: center;
+    /* justify-content: center; */
+    justify-items: center;
+    overflow: scroll;
+    color: #fff;
+}
+.profile>img{
+    height: 28vmin;
+    width: 28vmin;
+    border: 1px solid;
+    border-radius: 50%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
